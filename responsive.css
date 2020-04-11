@@ -1,0 +1,28 @@
+html, body{
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+#bloc-0{
+  padding: 0px 0px 0px 15px;  
+}
+
+.nav>li{
+ clear: both; 
+   
+}
+.navbar-toggle {
+  padding-right: 11%;
+}
+
+
+.navbar-collapse{
+  padding-left: 20%;
+  background-color: rgba(223, 223, 223, 0.5);
+}
+
+#bloc-1-hero, #bloc-3-what-i-do{
+    background-attachment: scroll;
+}
+
